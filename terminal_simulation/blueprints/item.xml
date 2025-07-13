@@ -1,0 +1,7 @@
+<blueprint>
+  <type>item</type>
+  <name>Rock</name>
+  <attributes>
+    <size>10</size>
+  </attributes>
+</blueprint>

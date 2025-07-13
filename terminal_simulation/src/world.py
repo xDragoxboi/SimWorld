@@ -15,7 +15,7 @@ class World:
         """
         self.width = width
         self.height = height
-        self.grid = [[None for _ in range(width)] for _ in range(height)]
+        self.grid = [[[] for _ in range(width)] for _ in range(height)]
         self.biomes = [[None for _ in range(width)] for _ in range(height)]
         self.weather = "sunny"
 
