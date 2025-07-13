@@ -6,7 +6,7 @@ def main():
     The main function of the program.
     """
     simulation = Simulation(20, 10)
-    simulation.run(600)
+    simulation.run(150)
     plot_simulation_data()
 
 if __name__ == "__main__":
