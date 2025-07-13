@@ -1,0 +1,10 @@
+<blueprint>
+  <type>lifeform</type>
+  <name>Herbivore</name>
+  <species>Herbivore</species>
+  <attributes>
+    <health>50</health>
+    <energy>100</energy>
+    <size>20</size>
+  </attributes>
+</blueprint>

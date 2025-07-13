@@ -1,0 +1,10 @@
+<blueprint>
+  <type>lifeform</type>
+  <name>Plant</name>
+  <species>Plant</species>
+  <attributes>
+    <health>10</health>
+    <energy>50</energy>
+    <size>5</size>
+  </attributes>
+</blueprint>

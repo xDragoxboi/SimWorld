@@ -1,0 +1,10 @@
+<blueprint>
+  <type>lifeform</type>
+  <name>Human</name>
+  <species>Human</species>
+  <attributes>
+    <health>100</health>
+    <energy>100</energy>
+    <size>70</size>
+  </attributes>
+</blueprint>
