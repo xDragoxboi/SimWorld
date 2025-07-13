@@ -53,6 +53,9 @@ class LifeForm:
         elif self.species == "Human" and food.species == "Herbivore":
             self.energy += food.energy
             food.health = 0
+        elif self.species == "Carnivore" and (food.species == "Herbivore" or food.species == "Human"):
+            self.energy += food.energy
+            food.health = 0
 
     def reproduce(self, other):
         """
@@ -78,6 +81,10 @@ class LifeForm:
         new_species = self.species
         if self.species != other.species:
             new_species = f"{self.species}-{other.species}"
+
+        # Add a check for carrying capacity before reproduction
+        if len(self.world.get_lifeforms_of_species(new_species)) >= self.world.carrying_capacity.get(new_species, 0):
+            return None
 
         return LifeForm(
             self.name,

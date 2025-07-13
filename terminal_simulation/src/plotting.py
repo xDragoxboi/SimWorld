@@ -3,52 +3,81 @@ import matplotlib.pyplot as plt
 
 def plot_simulation_data():
     """
-    Generates a plot of the simulation data.
+    Plots the simulation data from the simulation_data.json file.
     """
     with open("simulation_data.json", "r") as f:
         data = json.load(f)
 
     steps = sorted([int(step) for step in data.keys()])
-    species_data = {}
+    life_form_data = {}
+    item_data = {}
 
     for step in steps:
         step_str = str(step)
-        for species, values in data[step_str]["life_forms"].items():
-            if species not in species_data:
-                species_data[species] = {
-                    "steps": [],
-                    "count": [],
-                    "health": [],
-                    "energy": [],
-                    "size": [],
-                }
-            species_data[species]["steps"].append(step)
-            species_data[species]["count"].append(values["count"])
-            species_data[species]["health"].append(values["health"] / values["count"])
-            species_data[species]["energy"].append(values["energy"] / values["count"])
-            species_data[species]["size"].append(values["size"] / values["count"])
+        # Life form data
+        if "life_forms" in data[step_str]:
+            for species, species_data in data[step_str]["life_forms"].items():
+                if species not in life_form_data:
+                    life_form_data[species] = {"count": [], "health": [], "energy": [], "size": []}
+                life_form_data[species]["count"].append(species_data["count"])
+                life_form_data[species]["health"].append(species_data["health"] / species_data["count"])
+                life_form_data[species]["energy"].append(species_data["energy"] / species_data["count"])
+                life_form_data[species]["size"].append(species_data["size"] / species_data["count"])
+        # Item data
+        if "items" in data[step_str]:
+            for item_name, item_name_data in data[step_str]["items"].items():
+                if item_name not in item_data:
+                    item_data[item_name] = {"count": [], "size": []}
+                item_data[item_name]["count"].append(item_name_data["count"])
+                if item_name_data["count"] > 0:
+                    item_data[item_name]["size"].append(item_name_data["size"] / item_name_data["count"])
+                else:
+                    item_data[item_name]["size"].append(0)
 
-    fig, axs = plt.subplots(4, 1, figsize=(10, 20))
+    # Plotting
+    fig, axs = plt.subplots(2, 2, figsize=(15, 10))
 
-    for species, values in species_data.items():
-        axs[0].plot(values["steps"], values["count"], label=species)
-    axs[0].set_ylabel("Population")
-    axs[0].legend()
+    # Life form counts
+    total_population = {species: [] for species in life_form_data.keys()}
+    for step in steps:
+        for species, data in life_form_data.items():
+            total_population[species].append(data["count"][step])
 
-    for species, values in species_data.items():
-        axs[1].plot(values["steps"], values["health"], label=species)
-    axs[1].set_ylabel("Average Health")
-    axs[1].legend()
+    for species, counts in total_population.items():
+        axs[0, 0].plot(steps, counts, label=f"{species} Count")
+    axs[0, 0].set_xlabel("Step")
+    axs[0, 0].set_ylabel("Count")
+    axs[0, 0].set_title("Life Form Counts Over Time")
+    axs[0, 0].legend()
+    axs[0, 0].grid(True)
 
-    for species, values in species_data.items():
-        axs[2].plot(values["steps"], values["energy"], label=species)
-    axs[2].set_ylabel("Average Energy")
-    axs[2].legend()
+    # Item counts
+    for item_name, item_name_data in item_data.items():
+        axs[0, 1].plot(steps, item_name_data["count"], label=f"{item_name} Count")
+    axs[0, 1].set_xlabel("Step")
+    axs[0, 1].set_ylabel("Count")
+    axs[0, 1].set_title("Item Counts Over Time")
+    axs[0, 1].legend()
+    axs[0, 1].grid(True)
 
-    for species, values in species_data.items():
-        axs[3].plot(values["steps"], values["size"], label=species)
-    axs[3].set_ylabel("Average Size")
-    axs[3].set_xlabel("Step")
-    axs[3].legend()
+    # Average health
+    for species, species_data in life_form_data.items():
+        axs[1, 0].plot(steps, species_data["health"], label=f"{species} Avg. Health")
+    axs[1, 0].set_xlabel("Step")
+    axs[1, 0].set_ylabel("Average Health")
+    axs[1, 0].set_title("Average Life Form Health Over Time")
+    axs[1, 0].legend()
+    axs[1, 0].grid(True)
 
+    # Average energy
+    for species, species_data in life_form_data.items():
+        axs[1, 1].plot(steps, species_data["energy"], label=f"{species} Avg. Energy")
+    axs[1, 1].set_xlabel("Step")
+    axs[1, 1].set_ylabel("Average Energy")
+    axs[1, 1].set_title("Average Life Form Energy Over Time")
+    axs[1, 1].legend()
+    axs[1, 1].grid(True)
+
+    plt.tight_layout()
     plt.savefig("simulation_plot.png")
+    plt.show()

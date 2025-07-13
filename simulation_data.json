@@ -5,21 +5,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -30,21 +42,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -55,21 +79,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -80,21 +116,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -105,21 +153,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -130,21 +190,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -155,21 +227,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -180,21 +264,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -205,21 +301,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -230,21 +338,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -255,21 +375,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -280,21 +412,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -305,21 +449,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -330,21 +486,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -355,21 +523,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -380,21 +560,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -405,21 +597,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -430,21 +634,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -455,21 +671,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -480,21 +708,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -505,21 +745,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -530,21 +782,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -555,21 +819,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -580,21 +856,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -605,21 +893,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -630,21 +930,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -655,21 +967,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -680,21 +1004,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -705,21 +1041,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -730,21 +1078,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -755,21 +1115,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -780,21 +1152,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -805,21 +1189,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -830,21 +1226,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -855,21 +1263,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -880,21 +1300,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -905,21 +1337,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -930,21 +1374,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -955,21 +1411,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -980,21 +1448,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1005,21 +1485,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1030,21 +1522,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1055,21 +1559,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1080,21 +1596,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1105,21 +1633,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1130,21 +1670,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1155,21 +1707,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1180,21 +1744,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1205,21 +1781,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1230,21 +1818,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1255,21 +1855,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1280,21 +1892,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1305,21 +1929,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1330,21 +1966,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1355,21 +2003,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1380,21 +2040,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1405,21 +2077,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1430,21 +2114,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1455,21 +2151,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1480,21 +2188,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1505,21 +2225,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1530,21 +2262,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1555,21 +2299,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1580,21 +2336,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1605,21 +2373,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1630,21 +2410,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1655,21 +2447,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1680,21 +2484,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1705,21 +2521,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1730,21 +2558,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1755,21 +2595,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1780,21 +2632,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1805,21 +2669,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1830,21 +2706,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1855,21 +2743,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1880,21 +2780,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1905,21 +2817,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1930,21 +2854,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1955,21 +2891,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -1980,21 +2928,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2005,21 +2965,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2030,21 +3002,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2055,21 +3039,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2080,21 +3076,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2105,21 +3113,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2130,21 +3150,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2155,21 +3187,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2180,21 +3224,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2205,21 +3261,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2230,21 +3298,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2255,21 +3335,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2280,21 +3372,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2305,21 +3409,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2330,21 +3446,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2355,21 +3483,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2380,21 +3520,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2405,21 +3557,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2430,21 +3594,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2455,21 +3631,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
@@ -2480,21 +3668,33 @@
         },
         "life_forms": {
             "Human": {
-                "count": 5,
-                "health": 500,
-                "energy": 500,
-                "size": 350
+                "count": 10,
+                "health": 1000,
+                "energy": 1000,
+                "size": 700
             },
             "Herbivore": {
-                "count": 10,
-                "health": 500,
-                "energy": 1000,
-                "size": 200
+                "count": 20,
+                "health": 1000,
+                "energy": 2000,
+                "size": 400
             },
             "Plant": {
-                "count": 20,
-                "health": 200,
-                "energy": 1000,
+                "count": 40,
+                "health": 400,
+                "energy": 2000,
+                "size": 200
+            },
+            "Carnivore": {
+                "count": 5,
+                "health": 600,
+                "energy": 500,
+                "size": 400
+            }
+        },
+        "items": {
+            "Rock": {
+                "count": 10,
                 "size": 100
             }
         }
