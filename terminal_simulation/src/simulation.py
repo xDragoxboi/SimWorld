@@ -3,6 +3,7 @@ import os
 import random
 from terminal_simulation.src.world import World
 from terminal_simulation.src.lifeform import LifeForm
+from terminal_simulation.src.item import Item
 from terminal_simulation.src.blueprint import Blueprint
 from terminal_simulation.src.rendering import Renderer
 
@@ -23,6 +24,7 @@ class Simulation:
         """
         self.world = World(width, height)
         self.life_forms = []
+        self.items = []
         self.renderer = Renderer(self.world)
         self.data = {}
 
@@ -63,9 +65,8 @@ class Simulation:
                 attributes["size"],
             )
             self.life_forms.append(human)
-            self.world.grid[random.randint(0, self.world.height - 1)][
-                random.randint(0, self.world.width - 1)
-            ] = human
+            x, y = random.randint(0, self.world.width - 1), random.randint(0, self.world.height - 1)
+            self.world.grid[y][x].append(human)
 
         # Spawn herbivores
         blueprint_path = os.path.join(
@@ -82,9 +83,8 @@ class Simulation:
                 attributes["size"],
             )
             self.life_forms.append(herbivore)
-            self.world.grid[random.randint(0, self.world.height - 1)][
-                random.randint(0, self.world.width - 1)
-            ] = herbivore
+            x, y = random.randint(0, self.world.width - 1), random.randint(0, self.world.height - 1)
+            self.world.grid[y][x].append(herbivore)
 
         # Spawn plants
         blueprint_path = os.path.join(
@@ -101,9 +101,41 @@ class Simulation:
                 attributes["size"],
             )
             self.life_forms.append(plant)
-            self.world.grid[random.randint(0, self.world.height - 1)][
-                random.randint(0, self.world.width - 1)
-            ] = plant
+            x, y = random.randint(0, self.world.width - 1), random.randint(0, self.world.height - 1)
+            self.world.grid[y][x].append(plant)
+
+        # Spawn carnivores
+        blueprint_path = os.path.join(
+            os.path.dirname(__file__), "..", "blueprints", "carnivore.xml"
+        )
+        carnivore_blueprint = Blueprint(blueprint_path)
+        attributes = carnivore_blueprint.get_attributes()
+        for _ in range(5):
+            carnivore = LifeForm(
+                carnivore_blueprint.get_name(),
+                carnivore_blueprint.get_species(),
+                attributes["health"],
+                attributes["energy"],
+                attributes["size"],
+            )
+            self.life_forms.append(carnivore)
+            x, y = random.randint(0, self.world.width - 1), random.randint(0, self.world.height - 1)
+            self.world.grid[y][x].append(carnivore)
+
+        # Spawn items
+        blueprint_path = os.path.join(
+            os.path.dirname(__file__), "..", "blueprints", "item.xml"
+        )
+        item_blueprint = Blueprint(blueprint_path)
+        attributes = item_blueprint.get_attributes()
+        for _ in range(10):
+            item = Item(
+                item_blueprint.get_name(),
+                attributes["size"],
+            )
+            self.items.append(item)
+            x, y = random.randint(0, self.world.width - 1), random.randint(0, self.world.height - 1)
+            self.world.grid[y][x].append(item)
 
     def _update(self):
         """
@@ -112,7 +144,7 @@ class Simulation:
         for life_form in self.life_forms:
             if life_form.health <= 0:
                 self.life_forms.remove(life_form)
-                self.world.grid[life_form.y][life_form.x] = None
+                self.world.grid[life_form.y][life_form.x].remove(life_form)
             else:
                 # For now, we'll just print the life form's status.
                 print(
@@ -134,6 +166,7 @@ class Simulation:
                 "weather": self.world.weather,
             },
             "life_forms": {},
+            "items": {},
         }
         for life_form in self.life_forms:
             species = life_form.species
@@ -148,6 +181,16 @@ class Simulation:
             self.data[step]["life_forms"][species]["health"] += life_form.health
             self.data[step]["life_forms"][species]["energy"] += life_form.energy
             self.data[step]["life_forms"][species]["size"] += life_form.size
+
+        for item in self.items:
+            name = item.name
+            if name not in self.data[step]["items"]:
+                self.data[step]["items"][name] = {
+                    "count": 0,
+                    "size": 0,
+                }
+            self.data[step]["items"][name]["count"] += 1
+            self.data[step]["items"][name]["size"] += item.size
 
     def _save_data(self):
         """

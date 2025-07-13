@@ -53,6 +53,9 @@ class LifeForm:
         elif self.species == "Human" and food.species == "Herbivore":
             self.energy += food.energy
             food.health = 0
+        elif self.species == "Carnivore" and (food.species == "Herbivore" or food.species == "Human"):
+            self.energy += food.energy
+            food.health = 0
 
     def reproduce(self, other):
         """
