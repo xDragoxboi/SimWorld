@@ -1,8 +1,8 @@
 import time
-from .world import World
-from .lifeform import LifeForm
-from .blueprint import Blueprint
-from .rendering import Renderer
+from terminal_simulation.src.world import World
+from terminal_simulation.src.lifeform import LifeForm
+from terminal_simulation.src.blueprint import Blueprint
+from terminal_simulation.src.rendering import Renderer
 
 import json
 

@@ -1,5 +1,5 @@
-from simulation import Simulation
-from plotting import plot_simulation_data
+from terminal_simulation.src.simulation import Simulation
+from terminal_simulation.src.plotting import plot_simulation_data
 
 def main():
     """
