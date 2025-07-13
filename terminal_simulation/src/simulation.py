@@ -1,4 +1,6 @@
 import time
+import os
+import random
 from terminal_simulation.src.world import World
 from terminal_simulation.src.lifeform import LifeForm
 from terminal_simulation.src.blueprint import Blueprint
@@ -47,7 +49,10 @@ class Simulation:
         Spawns life forms into the world.
         """
         # Spawn humans
-        human_blueprint = Blueprint("blueprints/human.xml")
+        blueprint_path = os.path.join(
+            os.path.dirname(__file__), "..", "blueprints", "human.xml"
+        )
+        human_blueprint = Blueprint(blueprint_path)
         attributes = human_blueprint.get_attributes()
         for _ in range(5):
             human = LifeForm(
@@ -63,7 +68,10 @@ class Simulation:
             ] = human
 
         # Spawn herbivores
-        herbivore_blueprint = Blueprint("blueprints/herbivore.xml")
+        blueprint_path = os.path.join(
+            os.path.dirname(__file__), "..", "blueprints", "herbivore.xml"
+        )
+        herbivore_blueprint = Blueprint(blueprint_path)
         attributes = herbivore_blueprint.get_attributes()
         for _ in range(10):
             herbivore = LifeForm(
@@ -79,7 +87,10 @@ class Simulation:
             ] = herbivore
 
         # Spawn plants
-        plant_blueprint = Blueprint("blueprints/plant.xml")
+        blueprint_path = os.path.join(
+            os.path.dirname(__file__), "..", "blueprints", "plant.xml"
+        )
+        plant_blueprint = Blueprint(blueprint_path)
         attributes = plant_blueprint.get_attributes()
         for _ in range(20):
             plant = LifeForm(
